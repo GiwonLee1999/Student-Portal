@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\giwon\\DotNet\\StudentPortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{861AA84B-8895-41D0-ABC5-2E02F2BFB708}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\giwon\\dotnet\\studentportal\\studentportal.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{861AA84B-8895-41D0-ABC5-2E02F2BFB708}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{861AA84B-8895-41D0-ABC5-2E02F2BFB708}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\giwon\\dotnet\\studentportal\\studentportal.web\\migrations\\20250704020433_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{861AA84B-8895-41D0-ABC5-2E02F2BFB708}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\migrations\\20250704020433_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{861AA84B-8895-41D0-ABC5-2E02F2BFB708}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\giwon\\dotnet\\studentportal\\studentportal.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{861AA84B-8895-41D0-ABC5-2E02F2BFB708}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{861AA84B-8895-41D0-ABC5-2E02F2BFB708}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\giwon\\dotnet\\studentportal\\studentportal.web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{861AA84B-8895-41D0-ABC5-2E02F2BFB708}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{861AA84B-8895-41D0-ABC5-2E02F2BFB708}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\giwon\\dotnet\\studentportal\\studentportal.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{861AA84B-8895-41D0-ABC5-2E02F2BFB708}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{861AA84B-8895-41D0-ABC5-2E02F2BFB708}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\giwon\\dotnet\\studentportal\\studentportal.web\\studentportal.web.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{861AA84B-8895-41D0-ABC5-2E02F2BFB708}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\studentportal.web.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{861AA84B-8895-41D0-ABC5-2E02F2BFB708}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\giwon\\dotnet\\studentportal\\studentportal.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{861AA84B-8895-41D0-ABC5-2E02F2BFB708}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{861AA84B-8895-41D0-ABC5-2E02F2BFB708}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\giwon\\dotnet\\studentportal\\studentportal.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{861AA84B-8895-41D0-ABC5-2E02F2BFB708}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250704020433_Initial Migration.cs",
+              "DocumentMoniker": "C:\\Users\\giwon\\DotNet\\StudentPortal\\StudentPortal.Web\\Migrations\\20250704020433_Initial Migration.cs",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Migrations\\20250704020433_Initial Migration.cs",
+              "ToolTip": "C:\\Users\\giwon\\DotNet\\StudentPortal\\StudentPortal.Web\\Migrations\\20250704020433_Initial Migration.cs",
+              "RelativeToolTip": "StudentPortal.Web\\Migrations\\20250704020433_Initial Migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T02:04:34.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\giwon\\DotNet\\StudentPortal\\StudentPortal.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\giwon\\DotNet\\StudentPortal\\StudentPortal.Web\\appsettings.json",
+              "RelativeToolTip": "StudentPortal.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-04T01:58:07.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\giwon\\DotNet\\StudentPortal\\StudentPortal.Web\\Program.cs",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\giwon\\DotNet\\StudentPortal\\StudentPortal.Web\\Program.cs",
+              "RelativeToolTip": "StudentPortal.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T01:42:32.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\giwon\\DotNet\\StudentPortal\\StudentPortal.Web\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\giwon\\DotNet\\StudentPortal\\StudentPortal.Web\\Properties\\launchSettings.json",
+              "RelativeToolTip": "StudentPortal.Web\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-04T01:44:00.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentPortal.Web",
+              "DocumentMoniker": "C:\\Users\\giwon\\DotNet\\StudentPortal\\StudentPortal.Web\\StudentPortal.Web.csproj",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\StudentPortal.Web.csproj",
+              "ToolTip": "C:\\Users\\giwon\\DotNet\\StudentPortal\\StudentPortal.Web\\StudentPortal.Web.csproj",
+              "RelativeToolTip": "StudentPortal.Web\\StudentPortal.Web.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-04T01:43:57.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\giwon\\DotNet\\StudentPortal\\StudentPortal.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\giwon\\DotNet\\StudentPortal\\StudentPortal.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "StudentPortal.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T01:43:23.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\giwon\\DotNet\\StudentPortal\\StudentPortal.Web\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\giwon\\DotNet\\StudentPortal\\StudentPortal.Web\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "StudentPortal.Web\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T01:45:27.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\giwon\\DotNet\\StudentPortal\\StudentPortal.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\giwon\\DotNet\\StudentPortal\\StudentPortal.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StudentPortal.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T01:43:00.435Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
